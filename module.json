@@ -2,62 +2,61 @@
     "name": "my-shared-content",
     "title": "My Shared Content",
     "description": "A collection of my content.",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "author": "Me",
+    "minimumCoreVersion": "0.6.5",
+    "compatibleCoreVersion": "0.7.9",
     "packs": [
         {
-            "name": "creatures",
-            "label": "Creatures",
+            "name": "shared-creatures",
+            "label": "Shared Creatures",
             "module": "my-shared-content",
             "path": "./packs/creatures.db",
             "entity": "Actor"
         },
         {
-            "name": "items",
-            "label": "Items",
+            "name": "shared-items",
+            "label": "Shared Items",
             "module": "my-shared-content",
             "path": "./packs/items.db",
             "entity": "Item"
         },
         {
-            "name": "scenes",
-            "label": "Scenes",
+            "name": "shared-scenes",
+            "label": "Shared Scenes",
             "module": "my-shared-content",
             "path": "./packs/scenes.db",
             "entity": "Scene"
         },
         {
-            "name": "journal-entries",
-            "label": "Journal Entries",
+            "name": "shared-journal-entries",
+            "label": "Shared Journal Entries",
             "module": "my-shared-content",
             "path": "./packs/journal-entries.db",
             "entity": "JournalEntry"
         },
         {
-            "name": "macros",
-            "label": "Macros",
+            "name": "shared-macros",
+            "label": "Shared Macros",
             "module": "my-shared-content",
             "path": "./packs/macros.db",
             "entity": "Macro"
         },
         {
-            "name": "roll-tables",
-            "label": "Roll Tables",
+            "name": "shared-roll-tables",
+            "label": "Shared Roll Tables",
             "module": "my-shared-content",
             "path": "./packs/roll-tables.db",
             "entity": "RollTable"
         },
         {
-            "name": "playlists",
-            "label": "Playlists",
+            "name": "shared-playlists",
+            "label": "Shared Playlists",
             "module": "my-shared-content",
             "path": "./packs/playlists.db",
             "entity": "Playlist"
         }
     ],
-    "minimumCoreVersion": "0.6.5",
-    "compatibleCoreVersion": "0.7.9",
-    "url": "",
     "manifest": "https://gitlab.com/encounterlibrary/my-shared-content/-/raw/master/module.json",
     "download": "https://gitlab.com/encounterlibrary/my-shared-content/-/raw/master/my-shared-content.zip"
   }
