@@ -58,6 +58,6 @@
     "minimumCoreVersion": "0.6.5",
     "compatibleCoreVersion": "0.7.9",
     "url": "",
-    "manifest": "",
+    "manifest": "https://gitlab.com/encounterlibrary/my-shared-content/-/blob/master/module.json",
     "download": "https://gitlab.com/encounterlibrary/my-shared-content/-/blob/master/my-shared-content.zip"
   }
