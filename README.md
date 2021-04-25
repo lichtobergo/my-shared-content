@@ -1,0 +1,1 @@
+A shared content module that contains one compendium for each type of Foundry data: Actor, Item, Scene, JournalEntry, Macro, RollTable, and Playlist. If you would like to add or remove compendia please refer back to the video.
