@@ -4,7 +4,7 @@
     "description": "A collection of my content.",
     "version": "1.0.0",
     "author": "Me",
-    "minimumCoreVersion": "0.6.5",
+    "minimumCoreVersion": "0.7.5",
     "compatibleCoreVersion": "0.7.9",
     "packs": [
         {
