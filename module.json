@@ -14,6 +14,18 @@
             "entity": "Actor"
         },
         {
+            "name": "homebrew-class-features",
+            "label": "Homebrew Class Features",
+            "path": "./packs/homebrew-class-feat.db",
+            "entity": "Item"
+        },
+        {
+            "name": "oow-npc",
+            "label": "OoW NPCs",
+            "path": "./packs/oow-npc.db",
+            "entity": "Actor"
+        },
+        {
             "name": "shared-items",
             "label": "Shared Items",
             "path": "./packs/items.db",
