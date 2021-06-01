@@ -1,6 +1,6 @@
 {
     "name": "my-shared-content",
-    "title": "My Shared Content",
+    "title": "my Shared Content",
     "description": "A collection of my content.",
     "version": "1.0.0",
     "author": "Me",
@@ -62,6 +62,6 @@
             "entity": "Playlist"
         }
     ],
-    "manifest": "https://gitlab.com/encounterlibrary/my-shared-content/-/raw/master/module.json",
-    "download": "https://gitlab.com/encounterlibrary/my-shared-content/-/raw/master/my-shared-content.zip"
+    "manifest": "https://raw.githubusercontent.com/lichtobergo/my-shared-content/master/module.json?token=AO3JDURK42MJS7NF4AOS3F3AWYLI2",
+    "download": "https://github.com/lichtobergo/my-shared-content/archive/refs/heads/master.zip"
   }
